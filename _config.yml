@@ -1,4 +1,5 @@
-remote_theme: CloudCannon/vonge-jekyll-bookshop-template
-#theme: jekyll-theme-hacker
+#remote_theme: CloudCannon/vonge-jekyll-bookshop-template
+theme: jekyll-theme-hacker
 title: arizzo35's Homepage
 description: A collection of things I've worked on and things I find interesting.
+url: https://arizzo35.github.io
