@@ -3,7 +3,7 @@ remote_theme: sergiokopplin/indigo
 
 # main text of home
 title: Adam Rizkalla
-bio: Welcome to my personal website
+bio: Welcome
 
 # description
 description: A collection of things I've worked on and things I find interesting
@@ -39,8 +39,8 @@ permalink: /:title/
 #facebook: myfacebook
 #twitter: mytwitter
 #instagram: myinstagram
-linkedin: https://www.linkedin.com/in/adam-rizkalla-76412815
-github: https://www.github.com/ARizzo35
+linkedin: adam-rizkalla-76412815
+github: ARizzo35
 email: a1rizkalla@gmail.com
 
 authors:
