@@ -20,8 +20,8 @@ dark-theme: auto
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-external: false
+resume-url: assets/Adam_Rizkalla.pdf
 
 url: https://arizzo35.github.io
 
