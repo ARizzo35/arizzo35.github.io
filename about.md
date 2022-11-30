@@ -4,6 +4,8 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
+<h1 style="text-align: center;">Adam Rizkalla</h1>
+
 <p>Computer Engineer with a strong interest in embedded systems
 </p>
 
