@@ -1,3 +1,4 @@
 # Personal Website
 
-[arizzo35.github.io](https://arizzo35.github.io)
+<a href="https://arizzo35.github.io" target="_blank">arizzo35.github.io</a>
+
