@@ -25,5 +25,5 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://pypi.org/project/eeprom/">python-eeprom</a></li>
+	<li><a href="https://pypi.org/project/eeprom/" target="_blank">python-eeprom</a></li>
 </ul>
